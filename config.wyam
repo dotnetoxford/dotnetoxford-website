@@ -1,8 +1,14 @@
-#recipe Blog
+#r Blog
+#t CleanBlog
 
 // Customize your settings and add new ones here
-Settings[Keys.Host] = "host.com";
-Settings[BlogKeys.Title] = "My Blog";
-Settings[BlogKeys.Description] = "Welcome!";
+Settings[Keys.Host] = "dotnetoxford.com";
+Settings[BlogKeys.Title] = ".NET Oxford";
+Settings[BlogKeys.Description] = "";
+Settings[BlogKeys.Image] = "/assets/images/header.jpg";
+Settings[BlogKeys.GenerateArchive] = false;
+Settings[BlogKeys.IndexPageSize] = 4;
+Settings[BlogKeys.IndexPaging] = true;
+//Settings[BlogKeys.TagPageSize] = 100;
 
 // Add any pipeline customizations here
