@@ -1,0 +1,1 @@
+docker build -t dotnetoxford-website:0.0.1 .
