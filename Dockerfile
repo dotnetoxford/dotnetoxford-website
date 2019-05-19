@@ -9,7 +9,7 @@ WORKDIR /src
 COPY . .
 
 # Build site
-RUN /root/.dotnet/tools/wyam build
+RUN /root/.dotnet/tools/wyam build -v
 
 # Copy output folder into an NGINX container
 FROM nginx:alpine
