@@ -34,3 +34,7 @@ We also do a monthly prize draw, and our prize draw sponsors are:
 * [Jetbrains](https://jetbrains.com)
 * [Manning Publications](https://manning.com)
 * [Oz-Code](https://oz-code.com/)
+
+### Photography
+
+Whilst not _technically_ a sponsor - we'd also like to say a massive thank you to [John Parkin](https://www.linkedin.com/in/johnrparkin/) for his help with the photography. He's very kindly offered to help out with photography for each meetup - which is fantastic, as decent pictures of the events were something we were really lacking previously!
