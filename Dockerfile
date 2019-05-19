@@ -16,4 +16,5 @@ RUN dotnet /wyam/Wyam.dll build
 
 # Copy output folder into an NGINX container
 FROM nginx:alpine
+COPY ./nginx.config /etc/nginx/conf.d/default.conf
 COPY --from=build /src/output/. /usr/share/nginx/html
