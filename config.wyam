@@ -1,6 +1,8 @@
 #r Blog
 #t CleanBlog
 
+System.Globalization.CultureInfo.DefaultThreadCurrentCulture = System.Globalization.CultureInfo.CreateSpecificCulture("en-GB");
+
 // Customize your settings and add new ones here
 Settings[Keys.Host] = "dotnetoxford.com";
 Settings[BlogKeys.Title] = ".NET Oxford";
@@ -10,5 +12,7 @@ Settings[BlogKeys.GenerateArchive] = false;
 Settings[BlogKeys.IndexPageSize] = 4;
 Settings[BlogKeys.IndexPaging] = true;
 //Settings[BlogKeys.TagPageSize] = 100;
+Settings[Keys.DateTimeInputCulture] = System.Globalization.CultureInfo.CreateSpecificCulture("en-GB");
+Settings[Keys.DateTimeDisplayCulture] = System.Globalization.CultureInfo.CreateSpecificCulture("en-GB");
 
 // Add any pipeline customizations here
