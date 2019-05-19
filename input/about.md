@@ -1,4 +1,4 @@
-Title: ""
+Title: "About .NET Oxford"
 ---
 .NET Oxford is a user-group based in the UK aimed at .NET developers. It's not _just_ .NET, but anything of interest to a .NET developer - which nowadays encompasses a _wide_ variety of topics! It was founded by [Dan Clarke](https://www.twitter.com/dracan) and [Matt Nield](https://www.twitter.com/mnield), and has grown into quite a large community in the Oxfordshire area.
 
