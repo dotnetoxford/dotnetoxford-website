@@ -8,11 +8,12 @@ Dan has written [quite in-depth blog posts](https://www.danclarke.com/tags/dotne
 
 ## Social Links
 
-* [.NET Oxford on Meetup](https://www.meetup.com/dotnetoxford)
-* [.NET Oxford on Twitter](https://www.twitter.com/dotnetoxford)
-* [.NET Oxford on Facebook](https://www.facebook.com/groups/dotnetoxford)
+* [Meetup.com](https://www.meetup.com/dotnetoxford)
+* [Twitter](https://www.twitter.com/dotnetoxford)
+* [Facebook](https://www.facebook.com/groups/dotnetoxford)
 * [Blog posts](https://www.danclarke.com/tags/dotnetoxford)
 * [Slack signup](https://digitaloxford.herokuapp.com/)
+* [Github](https://github.com/dotnetoxford) (includes this website)
 
 ---
 
