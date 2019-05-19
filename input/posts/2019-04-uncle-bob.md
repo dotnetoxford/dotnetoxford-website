@@ -1,8 +1,14 @@
 Title: An evening with Uncle Bob!
 Published: 16/04/2019
 ---
+# An evening with Uncle Bob!
+---
+
 * [Meetup Event page](https://www.meetup.com/dotnetoxford/events/258708658/)
-* [Link to slides]()
+* [Link to slides](/assets/slides/TheFutureOfProgramming.pdf)
+* [Uncle Bob on Twitter](https://twitter.com/unclebobmartin)
+
+---
 
 ### Recording of Talk
 
