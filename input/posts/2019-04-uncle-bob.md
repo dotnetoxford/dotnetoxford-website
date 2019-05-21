@@ -5,7 +5,7 @@ Published: 16/04/2019
 ---
 
 * [Meetup Event page](https://www.meetup.com/dotnetoxford/events/258708658/)
-* [Link to slides](/assets/slides/TheFutureOfProgramming.pdf)
+* [Link to slides](https://dotnetoxfordassets.blob.core.windows.net/2019-04-unclebob/TheFutureOfProgramming.pdf)
 * [Uncle Bob on Twitter](https://twitter.com/unclebobmartin)
 
 ---
