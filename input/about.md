@@ -21,11 +21,13 @@ Dan has written [quite in-depth blog posts](https://www.danclarke.com/tags/dotne
 
 ### Corriculo Recruitment
 
-Our primary sponsor is [Corriculo Recruitment](https://corriculo.co.uk/). They have been our main sponsors from the very start, helping us out in so many different ways. Financially with the venue costs and providing drinks and refreshments for all our events. At each event, helping welcome everyone in through the doors and serving drinks. And also behind the scenes with marketing and promotion, ideas and suggestions. Definitely a core part of the .NET Oxford team!
+![](/assets/images/CorriculoLogo.jpg){style='width: 200px; float: left; margin-right: 30px'}
+Our primary sponsor is [Corriculo Recruitment](https://corriculo.co.uk/). They have been our main sponsors from the very start, helping us out in so many different ways. Financially with the venue costs and providing drinks and refreshments for all our events. At each event, helping welcome everyone in through the doors and serving drinks. And also behind the scenes with marketing and promotion, ideas and suggestions. Definitely a core part of the .NET Oxford team!{style='float: left'}
 
 ### Everstack Ltd
 
-Our secondary sponsor is Dan's company, [Everstack Ltd](https://www.everstack.com). For .NET Oxford, providing tons of Dan's time to manage and organise the user-group. Everstack provides software development and consultation services - please see [our website](https://www.everstack.com) for more information.
+![](/assets/images/Everstack.png){style='width: 200px; float: left; margin-right: 30px'}
+Our secondary sponsor is Dan's company, [Everstack Ltd](https://www.everstack.com). For .NET Oxford, providing tons of Dan's time to manage and organise the user-group. Everstack provides software development and consultation services - please see [our website](https://www.everstack.com) for more information.{style='float: left'}
 
 ### Prize Draw sponsors
 
