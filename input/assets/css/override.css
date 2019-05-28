@@ -1,3 +1,19 @@
 .intro-header {
   background-position: left;
 }
+
+@media screen and (max-width: 767px) {
+  #intro-header {
+    background-image: url("/assets/images/header_small.png") !important;
+    background-size: 100% !important;
+    background-color: #69287c;
+    height: 320px !important;
+    margin-bottom: 0px !important;
+  }
+}
+
+@media screen and (min-width: 400px) and (max-width: 767px) {
+  #intro-header {
+    height: 400px !important;
+  }
+}
