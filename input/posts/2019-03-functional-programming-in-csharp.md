@@ -11,6 +11,7 @@ Image: /assets/images/2019-03.jpg
 * [Slides](https://www.dropbox.com/s/dcir3t5k9ynusty/Functional%20C-Sharp%20-%202019-02.pptx?dl=0)
 * [LanguageExt library](https://github.com/louthy/language-ext)
 * [Online video of his talk (sadly, very poor quality though)](https://www.youtube.com/watch?v=sXd96TPitEQ)
+* [Simon Painter on Twitter](https://twitter.com/madSimonJ)
 
 ### News Items
 
