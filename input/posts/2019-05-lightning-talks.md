@@ -1,4 +1,4 @@
-Title: Lighting Talks
+Title: Lightning Talks
 Published: 14/05/2019
 Tags: [LightningTalks, Azure, Dependency Injection, C#, .NET, Books]
 Image: /assets/images/lightning.jpg
