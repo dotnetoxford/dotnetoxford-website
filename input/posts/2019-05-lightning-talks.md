@@ -24,6 +24,10 @@ Image: /assets/images/lightning.jpg
 * **[James World](https://twitter.com/jamesw0rld)**: "Stimulating books for .NET developers"
   * [List of recommended books](https://www.amazon.co.uk/hz/wishlist/ls/318QGVZD245I?ref_=wl_share)
 
+### News Items
+
+By far the longest list of news items, we've ever had - James went through a list of some of the Build announcements. His list [can be found here](https://gist.github.com/dracan/2750131e5de2ffa1c057d965b808e2b3).
+
 ### Prize Draw Winners
 
 * **Jetbrains**: Jamie Ansell
