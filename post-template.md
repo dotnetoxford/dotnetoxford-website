@@ -27,4 +27,6 @@ COPY FROM MEETUP
 
 ### Prize-draw winners
 
-* TODO
+* **Jetbrains**: _(waiting for reply from winner, so won't post name without permission)_
+* **Manning ebook**: _(waiting for reply from winner, so won't post name without permission)_
+* **Oz-Code**: _(waiting for reply from winner, so won't post name without permission)_
