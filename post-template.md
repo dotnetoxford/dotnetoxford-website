@@ -7,15 +7,28 @@ Image: /assets/images/2019-03.jpg
 
 COPY FROM MEETUP
 
+### Speaker Bio
+
+COPY FROM MEETUP
+
+---
+
+### Photos / Video
+* [Photos]()
+
 ---
 
 ### Links
 
-* [Photos]()
 * [Meetup Event page]()
 * [Intro-talk Slides]()
-* [Speaker's Slides]()
 * [SPEAKERNAME on Twitter]()
+
+---
+
+### Speaker's Links
+
+* [Speaker's Slides]()
 
 ---
 
