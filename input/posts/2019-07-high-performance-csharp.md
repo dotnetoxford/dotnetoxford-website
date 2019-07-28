@@ -17,10 +17,17 @@ _Steve is currently developing cloud native services, using .NET Core, ASP.NET C
 
 ---
 
-### Photos / Video
+### Photos
 
-* [Photos](https://www.dropbox.com/sh/qn5ctogn9pjo22e/AACY2AehL4JycU65FymsxXMXa?dl=0)
-* Video coming very soon! (thanks to [Pusher](https://pusher.com) for recording it!)
+* [Dropbox link](https://www.dropbox.com/sh/qn5ctogn9pjo22e/AACY2AehL4JycU65FymsxXMXa?dl=0) (thanks to our photographer, John Parkin!)
+
+---
+
+### Video
+
+Thanks to [Pusher](https://pusher.com) for recording this for us!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NVWQRbqcXJ4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
@@ -48,4 +55,4 @@ _Steve is currently developing cloud native services, using .NET Core, ASP.NET C
 
 * **Jetbrains**: _(waiting for reply from winner, so won't post name without permission)_
 * **Manning ebook**: John Parkin - waiting for book choice, will update here once he's decided
-* **Oz-Code**: _(waiting for reply from winner, so won't post name without permission)_
+* **Oz-Code**: [Matt Davidson](https://twitter.com/DavidsonMD)

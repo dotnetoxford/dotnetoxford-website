@@ -14,4 +14,6 @@ Image: /assets/images/unclebobheader.jpg
 
 ### Recording of Talk
 
+Thanks to [Pusher](https://pusher.com) for recording this for us!
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BHnMItX2hEQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
