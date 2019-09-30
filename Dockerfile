@@ -1,4 +1,4 @@
-FROM mcr.microsoft.com/dotnet/core/sdk as build
+FROM mcr.microsoft.com/dotnet/core/sdk:2.1 as build
 
 # Install wyam
 WORKDIR /wyam
