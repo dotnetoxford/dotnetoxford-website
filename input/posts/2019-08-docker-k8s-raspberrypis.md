@@ -19,7 +19,6 @@ _"[Dan](https://www.twitter.com/dracan) is an independent software developer wit
 
 ### Photos
 * [Photos](https://www.dropbox.com/sh/3p2tj2y89d0fim4/AADFzfoUVHZBuTMuYwbhXJoga?dl=0) (thanks to Richard Baldwin for taking these!)
-* Video coming soon (thanks to [Pusher](https://pusher.com) for recording this for us!)
 
 ### Video
 
