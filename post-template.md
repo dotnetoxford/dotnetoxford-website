@@ -38,6 +38,14 @@ COPY FROM MEETUP
 
 ---
 
+### Sponsors
+
+* [Corriculo Recruitment](https://corriculo.co.uk) (primary sponsor - venue, drinks and snacks)
+* [Everstack](https://www.everstack.com) (secondary sponsor - organisation)
+* Prize Draw sponsors - see below...
+
+---
+
 ### Prize-draw winners
 
 * **Jetbrains**: _(waiting for reply from winner, so won't post name without permission)_
