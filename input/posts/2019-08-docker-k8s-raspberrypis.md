@@ -13,7 +13,7 @@ _This talk is suitable for both those who have never used Docker or Kubernetes b
 
 ### Speaker Bio
 
-_"[Dan](https://www.twitter.com/dracan) is an independent software developer with over 20 years of commercial experience. He works for his own company, [Everstack Ltd](https://www.everstack.com), providing software development and consultation services for multiple businesses. He's very passionate about software development, productivity, and ongoing learning and self-improvement. His blog can be found [www.danclarke.com](https://www.danclarke.com)."_
+_"[Dan](https://www.twitter.com/dracan) is an independent software developer with over 20 years of commercial experience. He works for his own company, [Everstack Ltd](https://www.everstack.com), providing software development and consultation services for multiple businesses. He's very passionate about software development, productivity, and ongoing learning and self-improvement. His blog can be found at [www.danclarke.com](https://www.danclarke.com)."_
 
 ---
 
