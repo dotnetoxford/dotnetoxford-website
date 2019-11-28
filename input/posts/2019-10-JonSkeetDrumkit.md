@@ -20,7 +20,7 @@ _This session will look at specific aspects of the code - particularly mutabilit
 
 Thanks to [Pusher](https://pusher.com) for recording this for us!
 
-_(video coming soon)_
+<iframe width="560" height="315" src="https://www.youtube.com/embed/acSIfwZ8JiY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 

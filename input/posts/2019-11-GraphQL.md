@@ -30,7 +30,7 @@ _"[Michael Staib](https://twitter.com/michael_staib) is the co-founder of Chilli
 
 Thanks to [Pusher](https://pusher.com) for recording this for us!
 
-_(video coming soon)_
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q-5MUqLAEFs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
