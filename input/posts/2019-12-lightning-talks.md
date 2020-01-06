@@ -87,6 +87,8 @@ Image: /assets/images/lightning.jpg
 
 (embedded video coming soon)
 
+* [Slides](https://prezi.com/p/7gp45ivtvjob/?present=1)
+
 # Sponsors
 
 * **[Corriculo Recruitment](https://corriculo.co.uk)** - Kindly covering the venue, drinks, and helping us at each event
