@@ -22,7 +22,7 @@ Image: /assets/images/lightning.jpg
 
 # Photos
 
-* Photos coming soon! A big thanks to John Parkin from Ocean Software for doing the photography.
+* [Photos](https://www.dropbox.com/sh/e39gl40bzb5xfbp/AAAV_D8dW9PIxsSaqO4gEerla?dl=0) (a big thanks to John Parkin from Ocean Software for the photography!)
 
 # Recordings of Talks - with speakers' links
 
