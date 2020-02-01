@@ -1,6 +1,6 @@
 Title: Lightning Talks
 Published: 10/12/2019
-Tags: [LightningTalks, ML.NET, SCRUM, WSL, Machine Learning, Xamarin]
+Tags: [LightningTalks, ML.NET, SCRUM, WSL, Machine Learning, Xamarin, MSBuild]
 Image: /assets/images/lightning.jpg
 ---
 # Agenda
