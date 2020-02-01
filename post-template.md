@@ -3,22 +3,22 @@ Published: 12/03/2019
 Tags: []
 Image: /assets/images/2019-03.jpg
 ---
-### Talk Description
+# Talk Description
 
-COPY FROM MEETUP
+_"COPY FROM MEETUP"_
 
-### Speaker Bio
+# Speaker Bio
 
-COPY FROM MEETUP
-
----
-
-### Photos / Video
-* [Photos]()
+_"COPY FROM MEETUP"_
 
 ---
 
-### Links
+# Photos / Video
+* [Photos]() (thanks to John Parkin from Ocean Software for taking these!)
+
+---
+
+# Links
 
 * [Meetup Event page]()
 * [Intro-talk Slides]()
@@ -26,28 +26,28 @@ COPY FROM MEETUP
 
 ---
 
-### Speaker's Links
+# Speaker's Links
 
 * [Speaker's Slides]()
 
 ---
 
-### News Items
+# News Items
 
 * TODO
 
 ---
 
-### Sponsors
+# Sponsors
 
-* [Corriculo Recruitment](https://corriculo.co.uk) (primary sponsor - venue, drinks and snacks)
-* [Everstack](https://www.everstack.com) (secondary sponsor - organisation)
-* Prize Draw sponsors - see below...
+* **[Corriculo Recruitment](https://corriculo.co.uk)** - Kindly covering the venue, drinks, and helping us at each event
+* **[Everstack](https://www.everstack.com)** - Dan's company, helping organise and manage the user group
+* **[Manning Books](https://www.manning.com)** - Prize draw sponsor (ebook of winner's choice)
+* **[New Orbit](https://neworbit.co.uk)** - Prize draw sponsor (Raspberry Pi Starter Kit)
+* **[Pusher](https://www.pusher.com/)** - Video recordings
 
----
+# Prize Draw Winners
 
-### Prize-draw winners
-
-* **Jetbrains**: _(waiting for reply from winner, so won't post name without permission)_
-* **Manning ebook**: _(waiting for reply from winner, so won't post name without permission)_
-* **Oz-Code**: _(waiting for reply from winner, so won't post name without permission)_
+* **Jetbrains**:
+* **Manning ebook**:
+* **Raspberry Pi Starter Kit (New Orbit)**:
