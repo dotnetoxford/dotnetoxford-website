@@ -28,7 +28,7 @@ Image: /assets/images/lightning.jpg
 
 ### ML.NET - [Dan Clarke](https://twitter.com/dracan)
 
-(embedded video coming soon)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ePd4hhVa0Ug" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 * [Dan's blog](https://www.danclarke.com)
 * [Slides](https://www.dropbox.com/s/ynmrim0ujgsi8nl/ML.NET.pptx?dl=0)
@@ -39,39 +39,39 @@ Image: /assets/images/lightning.jpg
 
 ### What does a software architect do? - [James World](https://twitter.com/jamesw0rld)
 
-(embedded video coming soon)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NaPNryFI_yU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 * [Slides](https://www.dropbox.com/s/b07tuhts4wji7pu/Software%20Architect%20.NET%20Oxford%202019.pdf?dl=0)
 
 ### MSBuild Structured Log Viewer - [Stuart Lang](https://twitter.com/stuartblang)
 
-(embedded video coming soon)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vXJ1y_iPEWA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 * [Slides](https://noti.st/stuartlang/AopzW0/msbuild-structured-log-viewer)
 * [MSBuild Structured Log Viewer](http://msbuildlog.com/)
 
 ### What a load of SCRUM! - Umesh Keswani
 
-(embedded video coming soon)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4s2uwYmOzGM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 * [Slides](https://www.dropbox.com/s/qtp8s0muowq9ggz/What%20a%20load%20of%20SCRUM%21.pdf?dl=0)
 
 ### WSL2 and VSCode Remote - [Stuart Leeks](https://twitter.com/stuartleeks)
 
-(embedded video coming soon)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KGk2befTaI0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 * [Slides](https://www.slideshare.net/stuartleeks/net-oxford-windows-subsystem-for-linux-v2)
 
 ### AI will fundamentally change how we build software - [Frans Lytzen](https://twitter.com/flytzen)
 
-(embedded video coming soon)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4HeRqsIf-jA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 * [Slides](https://www.dropbox.com/s/3jxa77gai3m3554/AI%20will%20change%20everything.pdf?dl=0)
 * [Blog post](https://www.lytzen.name/2019/08/14/ai-will-fundamentally-change-software.html)
 
 ### Xamarin - [Tim Boyle](https://twitter.com/Timboski)
 
-(embedded video coming soon)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xfrIRhl9PjE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 * [Slides](https://www.dropbox.com/s/zqtbqq43c0d7ve1/20191210-Xamarin.pdf?dl=0)
 * [Tado - Smart Heating](https://www.tado.com/gb/)
@@ -79,13 +79,13 @@ Image: /assets/images/lightning.jpg
 
 ### Dashing (open-source ORM) - Mark Jerzykowski
 
-(embedded video coming soon)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AOX3gMeKNU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 * [Slides](https://www.dropbox.com/s/7koppj4y562wkyu/Dashing.pdf?dl=0)
 
 ### 2020 - Key changes to look out for - [Megan Robertson (Corriculo Recruitment)](https://corriculo.co.uk/)
 
-(embedded video coming soon)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jhFQOaJuOP0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 * [Slides](https://prezi.com/p/7gp45ivtvjob/?present=1)
 
