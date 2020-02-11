@@ -9,6 +9,8 @@ In this additional extra event, we took part in [the UK .NET Tour 2020](https://
 
 _"In this session we’ll dive into SDK-style project files and MSBuild to show you some of the techniques used by the .NET Project System team, and most of the rest of the dotnet org on GitHub, to make your project files easy to manage, author and maintain, make it easy to start new projects, and perhaps most importantly show you how to diagnose issues with your builds. Come and hear all of the things I wish David wished he knew about before joining the project system team, and hopefully you’ll be able to improve your project/build environment as a result."_
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5HEbsyU5E1g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### "From ‘dotnet run’ to “Hello World”" - with [Matt Warren](https://twitter.com/matthewwarren)
 
 _"Have you ever stopped to think about all the things that happen when you execute a simple .NET program?"
@@ -16,6 +18,8 @@ _"Have you ever stopped to think about all the things that happen when you execu
 _This talk will delve into the internals of the recently open-sourced .NET Core runtime, looking at what happens, when it happens and why._
 
 _Making use of freely available tools such as 'PerfView', we'll examine the Execution Engine, Type Loader, Just-in-Time (JIT) Compiler and the CLR Hosting API to see how all these components play a part in making 'Hello World' possible."_
+
+(video coming soon!)
 
 # Speaker Bios
 
@@ -28,7 +32,7 @@ Matt is a Microsoft MVP based in UK, and a C# dev who loves nothing more than fi
 # Photos and Video
 
 * [Photos](https://www.dropbox.com/sh/feo6h6b98uei5du/AAAlglGVJfvlX_xPW_hlxvVxa?dl=0) (thanks to John Parkin from Ocean Software for taking these!)
-* We'll update this page with a link and embedded video once it becomes available. Thanks to [Pusher](https://pusher.com) for recording this for us!
+* See above embedded videos. Thanks to [Pusher](https://pusher.com) for recording this for us!
 
 ---
 
