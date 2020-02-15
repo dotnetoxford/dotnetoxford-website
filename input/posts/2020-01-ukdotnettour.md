@@ -77,5 +77,5 @@ Matt's .NET Internals talk:
 # Prize Draw Winners
 
 * **Jetbrains**: Alex G
-* **Manning ebook**:  Yves C
+* **Manning ebook**: Yves C
 * **Raspberry Pi Starter Kit (New Orbit)**: Dave N
