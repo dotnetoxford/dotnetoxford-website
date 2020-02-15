@@ -19,7 +19,7 @@ _This talk will delve into the internals of the recently open-sourced .NET Core 
 
 _Making use of freely available tools such as 'PerfView', we'll examine the Execution Engine, Type Loader, Just-in-Time (JIT) Compiler and the CLR Hosting API to see how all these components play a part in making 'Hello World' possible."_
 
-(video coming soon!)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/378nXIxGAoU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Speaker Bios
 
