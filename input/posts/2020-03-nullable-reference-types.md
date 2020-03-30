@@ -23,7 +23,7 @@ _"Ian started using computers when he was six. He has worked in various aspects 
 
 Thanks to [Pusher](https://pusher.com) for recording this for us!
 
-_(video coming soon)_
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0IH_oLe9Bn0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
