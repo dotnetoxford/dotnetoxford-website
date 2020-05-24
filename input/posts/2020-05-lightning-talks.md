@@ -33,6 +33,7 @@ _"With a lot of C# code I look at nowadays, I find myself thinking "wow, that co
 _"When being handed an existing system, how to figure out how it fits together."_
 
 * [Slides](https://noti.st/jesspwhite/gCNgUq/systems-are-like-a-jigsaw-puzzle-lightning-talk)
+* [Blog post](https://jesswhite.co.uk/2020/05/19/jigsaw-post.html)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-_FlcPnvAfA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
