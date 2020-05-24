@@ -76,6 +76,8 @@ _"Sharing some thoughts and experiences on how we can make more impact by tuning
 # "Inclusion and Accessibility? Start right now!" - Dennie Declercq
 _"Did you think what you can do to make a more inclusive and accessible world? How you can develop apps that helps people with disabilities that didn’t use your apps or systems before? Why should you? Because some apps really improve their Quality of Life!"_
 
+* [Slides](https://github.com/DDSoftDennie/SlideDecks/raw/master/Inclusion%20and%20accessibility%20strart%20right%20now%20-%20.NET%20Oxford%202020.pptx)
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gwjbt742iak" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
