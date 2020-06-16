@@ -19,12 +19,7 @@ In his talk, he discussed the announcements about .NET and ASP.NET Core from the
 
 * [Meetup Event page](https://www.meetup.com/dotnetoxford/events/270602478/)
 * [IntroTalk Slides](https://www.dropbox.com/s/w5ylp443q40nq66/2020-06-ScottHunter.pdf?dl=0)
-
----
-
-# Speaker's Links
-
-_(coming soon)_
+* [Scott Hunter's talk slides](https://www.dropbox.com/s/mbrvoeeu2kcipqz/NET%202020.pptx?dl=0)
 
 ---
 
