@@ -1,6 +1,6 @@
 Title: Functional Programming in C#
 Published: 12/03/2019
-Tags: [CSharp, Functional Programming]
+Tags: [.NET, CSharp, Functional Programming]
 Image: /assets/images/2019-03.jpg
 ---
 ### Talk Description
