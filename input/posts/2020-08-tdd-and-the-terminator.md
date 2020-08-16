@@ -41,7 +41,7 @@ As a former Pilates teacher and professional horse-rider, Layla changed careers 
 # Meetup Links
 
 * [Meetup Event page](https://www.meetup.com/dotnetoxford/events/270887803/)
-* [IntroTalk Slides]()
+* [IntroTalk Slides](https://www.dropbox.com/s/jqxmpjzkvv0dn31/2020-07-TDDAndTheTerminator.pdf?dl=0)
 
 ---
 
