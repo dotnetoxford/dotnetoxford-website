@@ -33,8 +33,9 @@ As a former Pilates teacher and professional horse-rider, Layla changed careers 
 
 # Speaker's links
 
-* [Slides]()
+* [Slides](https://speakerdeck.com/laylacodesit/tdd-and-the-terminator-f314a5bd-3d02-4870-b3d1-034e714b076b)
 * [Layla on Twitter](https://twitter.com/LaylaCodesIt)
+* [Layla's Twitch Stream](https://www.twitch.tv/laylacodesit)
 
 ---
 
