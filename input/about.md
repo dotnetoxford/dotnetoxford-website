@@ -12,7 +12,7 @@ Dan has written [quite in-depth blog posts](https://www.danclarke.com/tags/dotne
 * [Twitter](https://www.twitter.com/dotnetoxford)
 * [Facebook](https://www.facebook.com/groups/dotnetoxford)
 * [Blog posts](https://www.danclarke.com/tags/dotnetoxford)
-* [Slack signup](https://digitaloxford.herokuapp.com/)
+* [Slack signup](https://www.dotnetoxford.com/slack)
 * [Github](https://github.com/dotnetoxford) (includes this website)
 
 ---
