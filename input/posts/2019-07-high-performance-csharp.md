@@ -1,6 +1,6 @@
 Title: Writing High-Performance C# and .NET Code
 Published: 9/07/2019
-Tags: [C#, .NET, Performance]
+Tags: [CSharp, .NET, Performance]
 Image: /assets/images/2019-07.jpg
 ---
 ### Talk Description
