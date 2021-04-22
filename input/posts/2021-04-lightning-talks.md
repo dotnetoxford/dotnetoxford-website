@@ -21,6 +21,19 @@ Image: /assets/images/lightning.jpg
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gi4cYC3Ipws" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+* [Why your internet habits are not as clean as you think](https://www.bbc.com/future/article/20200305-why-your-internet-habits-are-not-as-clean-as-you-think)
+* [Shopping online? Beware of the digital carbon footprint](https://fashionunited.uk/news/fashion/shopping-online-beware-of-the-digital-carbon-footprint/2021032254569)
+* [Surge in digital activity has hidden environmental costs](https://news.yale.edu/2021/01/27/surge-digital-activity-has-hidden-environmental-costs)
+* [‘Tsunami of data’ could consume one fifth of global electricity by 2025](https://www.theguardian.com/environment/2017/dec/11/tsunami-of-data-could-consume-fifth-global-electricity-by-2025)
+* [Amazon Echo (1st Generation) Power Consumption](https://www.amazon.co.uk/gp/help/customer/display.html?nodeId=202086760)
+* [Thinking about power usage and websites](https://css-tricks.com/thinking-about-power-usage-and-websites/)
+* [Examining the Carbon Footprint of Devices](https://devblogs.microsoft.com/sustainable-software/examining-the-carbon-footprint-of-devices/)
+* [The Carbon Cost of an Email](https://carbonliteracy.com/the-carbon-cost-of-an-email/)
+* [What you can do to reduce the carbon footprint of your website](https://vwo.com/blog/reduce-website-carbon-footprint/)
+* [KWH-to-CO2](https://www.rensmart.com/Calculators/KWH-to-CO2)
+* [The Low Impact Website](https://www.notion.so/Links-References-4aef6c4841e04fc1b9d24d720684ad6c#fcb1041aeaf34ec3b5a4172bd337d562)
+* [The environmental cost of keeping mail and files online keeps rising](https://www.japantimes.co.jp/news/2020/01/26/business/tech/email-global-warming/)
+
 ---
 
 ### "The data that's hidden right under your 6e6f7365" - [Simon Painter](https://twitter.com/madSimonJ)
