@@ -31,7 +31,7 @@ Image: /assets/images/lightning.jpg
 * [The Carbon Cost of an Email](https://carbonliteracy.com/the-carbon-cost-of-an-email/)
 * [What you can do to reduce the carbon footprint of your website](https://vwo.com/blog/reduce-website-carbon-footprint/)
 * [KWH-to-CO2](https://www.rensmart.com/Calculators/KWH-to-CO2)
-* [The Low Impact Website](https://www.notion.so/Links-References-4aef6c4841e04fc1b9d24d720684ad6c#fcb1041aeaf34ec3b5a4172bd337d562)
+* [The Low Impact Website](https://lowimpact.organicbasics.com/eur)
 * [The environmental cost of keeping mail and files online keeps rising](https://www.japantimes.co.jp/news/2020/01/26/business/tech/email-global-warming/)
 
 ---
