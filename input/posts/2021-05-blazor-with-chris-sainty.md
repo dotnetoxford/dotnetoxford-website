@@ -8,21 +8,15 @@ Image: /assets/images/dno-purple.png
 
 # Talk Description
 
-_"What started as a prototype in 2017 has become one of the hottest technologies in the .NET ecosystem. Blazor is Microsoft’s new front-end framework for building single page applications using C#, not JavaScript. That’s right, C# running in your browser. No plugins, transpilation or voodoo magic involved - just web standards._
+_"The widespread adoption of WebAssembly, by all major browsers, has opened the world of front-end development to languages other than JavaScript. The platform leading the charge is Blazor - a new client-side UI framework from the Microsoft ASP.NET team. Blazor allows developers to write client-side applications using C# which runs inside the browser without needing plugins or transpilation - how cool is that!_
 
-_In this talk, you'll learn all about this game changing platform and how it brings choice back into front-end development._
+_In this code-focused session, we'll explore the Blazor platform. Starting with the fundamentals, we'll look at how to organise our applications for better maintainability. Then we'll look at how to handle user input using forms and validation. We'll then explore some more advanced topics such as JavaScript interop and authentication and authorisation._
 
-_Starting from the beginning, you'll explore Blazor's flexible architecture and it's different rendering modes. You'll learn how C# code is able to run in the browser via a technology called WebAssembly. You'll also cover Blazor's component model, syntax, project types and more._
-
-_By the end, you'll have a solid understanding of what Blazor is and how it could be the last framework you'll ever need!"_
+_This session is great for developers both new to Blazor or who have prior experience and want to deepen their knowledge."_
 
 # Speaker Bio
 
-_"Chris is a Microsoft MVP, software engineer and blogger with over 15 years of experience working with ASP.NET._
-
-_Chris is passionate about sharing his knowledge with the community and is an avid blogger and speaker. A strong believer in open source, he maintains several projects under the GitHub organisation, Blazored. He also contributes to other projects as much as possible._
-
-_You can find Chris online at his blog [chrissainty.com](chrissainty.com) or on Twitter as [@chris_sainty](https://twitter.com/chris_sainty)"_
+_"Chris is a Microsoft MVP, author, and principal software engineer with over 15 years experience with ASP.NET. He works at Deployed, a London based startup, leading the engineering team. Passionate about sharing his knowledge with the community, he regularly writes both for his own blog as well as others—such as Visual Studio magazine, Progress Telerik, and StackOverflow. A passion for blogging led to his current focus, writing Blazor in Action with Manning publications. He also maintains several popular open source projects under the GitHub organisation, Blazored. When not tapping on a keyboard, Chris is a keen speaker, having delivered talks at both user groups and conferences all over the world (virtually). You can find Chris online at his blog [chrissainty.com](http://chrissainty.com) and on Twitter as [@chris_sainty](https://twitter.com/chris_sainty)."_
 
 ---
 
