@@ -1,0 +1,6 @@
+apiVersion: v2
+name: dotnetoxford-website
+description: The website for the .NET Oxford website
+type: application
+version: 0.1.0
+appVersion: "1.1.0"

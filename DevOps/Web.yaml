@@ -1,0 +1,24 @@
+trigger:
+  branches:
+    include:
+      - master
+
+variables:
+  azureServicePrincipal: k8s-cluster
+
+stages:
+  # Build
+  - template: Templates/Build.yaml
+    parameters:
+      dockerFile: Dockerfile
+      dockerRepository: dracan/dotnetoxford-website
+      buildContext: .
+      helmChartPath: $(System.DefaultWorkingDirectory)/DevOps/WebChart/
+
+  # Deploy
+  - template: Templates/Deploy.yaml
+    parameters:
+      environment: uat
+      tag: $(Build.BuildId)
+      name: web
+      imageName: dracan/dotnetoxford-website

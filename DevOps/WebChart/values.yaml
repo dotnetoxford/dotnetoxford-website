@@ -1,0 +1,8 @@
+hostname: www.dotnetoxford.com
+healthChecks:
+  enabled: false
+  readinessRoute: TODO
+useAcrSecret: false
+image:
+  name: dotnetoxford-website
+  tag: 0
