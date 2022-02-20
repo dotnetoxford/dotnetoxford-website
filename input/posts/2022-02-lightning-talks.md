@@ -73,6 +73,8 @@ _.NET 6 includes DateOnly, TimeOnly, cross-platform TimeZoneInfo, InterpolatedSt
 
 _So let's checkout the most prominent types and members in .NET 6 and put them to the (unit) test."_
 
+[Repository on GitHub](https://github.com/Flash0ver/F0-Talks-ApiDiff)
+
 **Bio**: My passion is to practice Clean Code and test-driven development in order to build maintainable software in an ever-evolving team, supported by tools from the .NET Ecosystem. I love to attend and speak at public developer events and author open source projects, complementing my expertise in professional software development.
 
 ---
