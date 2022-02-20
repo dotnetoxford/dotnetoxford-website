@@ -96,13 +96,15 @@ _The talk is language agnostic. I do use Azure for examples, but the principles 
 
 **Bio**: CTO at NewOrbit. Helping developers make the most of Azure. Moving software to the cloud since 2006.
 
-CTO and CISO at NewOrbit;
 - Architecting and implementing large and small-scale software for our customers, all running on Azure.
 - Helping developers make the most of Azure https://www.neworbit.co.uk/azure.
 - Provides security and cost reviews for Azure.
 - Maintains a few open source packages.
+- Obsessed with performance and security.  
 
-Obsessed with performance and security.
+
+
+- [Talk Summary and Slides](https://neworbit.co.uk/designing-for-scale-in-the-cloud/)
 
 ---
 
