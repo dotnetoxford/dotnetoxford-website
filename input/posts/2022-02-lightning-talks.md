@@ -102,9 +102,7 @@ _The talk is language agnostic. I do use Azure for examples, but the principles 
 - Maintains a few open source packages.
 - Obsessed with performance and security.  
 
-
-
-- [Talk Summary and Slides](https://neworbit.co.uk/designing-for-scale-in-the-cloud/)
+* [Talk Summary and Slides](https://neworbit.co.uk/designing-for-scale-in-the-cloud/)
 
 ---
 
