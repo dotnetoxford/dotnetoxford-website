@@ -40,6 +40,7 @@ _Frans Lytzen is the CTO and CISO at NewOrbit and has been moving software to th
 
 * [Meetup Event page](https://www.meetup.com/dotnetoxford/events/281709324/)
 * [IntroTalk Slides](https://www.dropbox.com/s/xogwsc4b0h1p0wj/2022-03-OptimiseYourAzureSpend.pdf?dl=0)
+* [Talk Summary post](https://neworbit.co.uk/spend-less-on-azure/)
 
 ---
 
