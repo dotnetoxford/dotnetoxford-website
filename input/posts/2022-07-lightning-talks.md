@@ -51,7 +51,7 @@ Twitter: [@mnield](https://twitter.com/mnield)
 
 Twitter: [@podcasterJay](https://twitter.com/podcasterJay)
 
-* [Slides](https://github.com/jamie-taylor-rjj/Talks/tree/main/empathy-and-sympathy)
+* [Slides](http://htmlpreview.github.io/?https://github.com/jamie-taylor-rjj/Talks/blob/main/empathy-and-sympathy/slide.html#0) ([source](https://github.com/jamie-taylor-rjj/Talks/tree/main/empathy-and-sympathy))
 
 ---
 
