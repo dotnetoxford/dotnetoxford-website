@@ -1,6 +1,6 @@
 Title: Incident Management
 Lead: with Mårten Rånge
-Published: 18/08/2022
+Published: 18/10/2022
 Tags: []
 Image: /assets/images/dno-purple.png
 ---
