@@ -9,10 +9,10 @@ Dan has written [quite in-depth blog posts](https://www.danclarke.com/tags/dotne
 ## Social Links
 
 * [Meetup.com](https://www.meetup.com/dotnetoxford)
+* [Discord](https://discord.gg/cNXxUXDegH)
 * [Twitter](https://www.twitter.com/dotnetoxford)
 * [Facebook](https://www.facebook.com/groups/dotnetoxford)
 * [Blog posts](https://www.danclarke.com/tags/dotnetoxford)
-* [Slack signup](https://www.dotnetoxford.com/slack)
 * [Github](https://github.com/dotnetoxford) (includes this website)
 
 ---
