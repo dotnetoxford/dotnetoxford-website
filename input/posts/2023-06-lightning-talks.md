@@ -44,7 +44,7 @@ Image: /assets/images/dno-purple.png
 
 # "How I Learned to Stop Worrying and Love the Redirect" - Matt Nield{#redirect}
 
-VIDEO COMING SOON
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xZN2DeDm-u8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 * [Twitter](https://twitter.com/mnield)
 * [LinkedIn](https://www.linkedin.com/in/mattnield/)
